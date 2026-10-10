@@ -131,6 +131,8 @@
         "creditWebsite": "www.wallpapers-clan.com",
         "isFree": true,
         "isPremium": false,
+        "isFeatured": true,
+        "featuredBannerUrl": "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/MIX/Animals/Widgets/5.png",
         "wallpaperUrls": [
             "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/MIX/Animals/Wallpapers/wallpaper_1.jpg",
             "https://cdn.jsdelivr.net/gh/widiayudia25-arch/themepic-assets@main/MIX/Animals/Wallpapers/wallpaper_10.jpg",
